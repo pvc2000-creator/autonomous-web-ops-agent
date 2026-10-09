@@ -11,7 +11,7 @@ extraction → snapshot comparison → reasoning loop → completion (summary, a
 > **Interactive demo (no backend needed):** open [`frontend/index.html`](frontend/index.html) directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
 >
-> **Demonstration video:** Google Drive link to be added ("Anyone with the link can view")
+> **Demonstration video:** [Watch on Google Drive](https://drive.google.com/file/d/1nA9cLve93nc4lCcqrzlR2lsdbvPbnbVk/view?usp=drive_link)
 
 ![Live browser view](docs/screenshots/01_live_browser_booking.png)
 
