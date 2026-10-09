@@ -6,10 +6,12 @@ pricing, campaign pages, partner updates, travel demand signals) into auditable 
 **task intake → agent planning → (plan approval) → controlled browser execution → structured
 extraction → snapshot comparison → reasoning loop → completion (summary, alerts, export, review)**
 
-> **Deployed application:** `https://mmt-web-ops-agent-g2bj.onrender.com/` (add after deploying; see *Deploy*)
-> **Interactive demo (no backend needed):** open `frontend/index.html` directly; it detects that no
+> **Deployed application:** <https://mmt-web-ops-agent-g2bj.onrender.com/>
+>
+> **Interactive demo (no backend needed):** open [`frontend/index.html`](frontend/index.html) directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
-> **Demonstration video:** `<Google Drive link, "Anyone with the link can view">`
+>
+> **Demonstration video:** Google Drive link to be added ("Anyone with the link can view")
 
 ![Live browser view](docs/screenshots/01_live_browser_booking.png)
 
